@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AutoTouchPro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.AutoTouchPro.DayNight" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Compose 主题由 MaterialTheme 控制 -->
+    </style>
+
+</resources>

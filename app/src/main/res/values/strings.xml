@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AutoTouch Pro</string>
+    <string name="app_description">安卓自动操作录制回放软件</string>
+
+    <!-- 通用 -->
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="rename">重命名</string>
+    <string name="export">导出</string>
+    <string name="import">导入</string>
+    <string name="share">分享</string>
+    <string name="search">搜索</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+
+    <!-- 录制 -->
+    <string name="start_record">开始录制</string>
+    <string name="stop_record">停止录制</string>
+    <string name="pause_record">暂停录制</string>
+    <string name="resume_record">继续录制</string>
+    <string name="recording">录制中</string>
+    <string name="record_paused">录制已暂停</string>
+
+    <!-- 回放 -->
+    <string name="start_playback">开始回放</string>
+    <string name="stop_playback">停止回放</string>
+    <string name="pause_playback">暂停回放</string>
+    <string name="resume_playback">继续回放</string>
+    <string name="playing">回放中</string>
+    <string name="playback_paused">回放已暂停</string>
+    <string name="playback_completed">回放完成</string>
+
+    <!-- 脚本 -->
+    <string name="script_list">脚本列表</string>
+    <string name="script_name">脚本名称</string>
+    <string name="script_description">脚本描述</string>
+    <string name="no_scripts">暂无脚本</string>
+    <string name="new_script">新建脚本</string>
+    <string name="script_editor">脚本编辑器</string>
+    <string name="action_count">操作数量</string>
+    <string name="duration">总时长</string>
+
+    <!-- 权限 -->
+    <string name="permission_guide">权限引导</string>
+    <string name="accessibility_permission">无障碍权限</string>
+    <string name="floating_permission">悬浮窗权限</string>
+    <string name="storage_permission">存储权限</string>
+    <string name="go_to_settings">去设置</string>
+    <string name="permission_granted">已授予</string>
+    <string name="permission_denied">未授予</string>
+
+    <!-- 设置 -->
+    <string name="general_settings">通用设置</string>
+    <string name="record_settings">录制设置</string>
+    <string name="playback_settings">回放设置</string>
+    <string name="default_speed">默认回放速度</string>
+    <string name="default_loop_count">默认循环次数</string>
+    <string name="keep_screen_on">保持屏幕常亮</string>
+    <string name="vibration_feedback">震动反馈</string>
+    <string name="floating_size">悬浮窗大小</string>
+    <string name="floating_opacity">悬浮窗透明度</string>
+
+</resources>

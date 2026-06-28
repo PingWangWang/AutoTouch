@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_variant">#4F46E5</color>
+    <color name="secondary">#10B981</color>
+    <color name="secondary_variant">#059669</color>
+    <color name="tertiary">#8B5CF6</color>
+
+    <!-- 功能色 -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- 录制/回放状态色 -->
+    <color name="recording">#EF4444</color>
+    <color name="playing">#6366F1</color>
+    <color name="paused">#F59E0B</color>
+    <color name="idle">#10B981</color>
+
+    <!-- 中性色（浅色模式） -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F8FAFC</color>
+    <color name="on_background">#0F172A</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_text">#64748B</color>
+    <color name="divider">#E2E8F0</color>
+
+    <!-- 中性色（深色模式） -->
+    <color name="background_dark">#0F172A</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="on_background_dark">#F1F5F9</color>
+    <color name="on_surface_dark">#F1F5F9</color>
+    <color name="secondary_text_dark">#94A3B8</color>
+    <color name="divider_dark">#334155</color>
+
+</resources>
